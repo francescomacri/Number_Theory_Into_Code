@@ -36,7 +36,7 @@ To get started with the code examples in this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/Number-Theory-Into-Code.git
+   git clone https://github.com/francescomacri/Number_Theory_Into_Code.git
    ```
 
 2. Open the Jupyter Notebook and explore the implementations.
