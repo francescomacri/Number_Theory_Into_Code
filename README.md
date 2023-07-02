@@ -71,4 +71,4 @@ If you plan to use the code in a larger project or for commercial purposes, it's
 
 ## Conclusion
 
-The Number Theory Into Code repository aims to provide practical implementations and examples for various number theory concepts. Explore the folders, experiment with the code, and deepen your understanding of number theory through programming. Remember that the code is provided without any warranty, so use it at your own risk. Enjoy your journey into the world of numbers and code!
+The Number Theory Into Code repository aims to provide practical implementations and examples for various number theory concepts. Explore the Jupyter Notebook, experiment with the code, and deepen your understanding of number theory through programming. Remember that the code is provided without any warranty, so use it at your own risk. Enjoy your journey into the world of numbers and code!
