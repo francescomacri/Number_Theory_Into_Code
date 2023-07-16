@@ -21,11 +21,11 @@ The Number Theory Into Code repository includes implementations and examples for
 - Prime numbers
 - Factorization
 - Modular arithmetic
-- Cryptography algorithms (e.g., RSA, Diffie-Hellman)
+- Cryptography algorithms
 - Diophantine equations
 - Continued fractions
-- Number sequences (e.g., Fibonacci sequence)
-- And more!
+- Number sequences
+- and more...
 
 The Jupyter Notebook contains code examples, explanations, and sometimes accompanying mathematical background to help you understand the concepts better.
 
